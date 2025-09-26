@@ -1,0 +1,86 @@
+{
+  "structure": [
+    {
+      "title": "Home",
+      "path": "index.md"
+    },
+    {
+      "title": "Getting Started",
+      "children": [
+        { "title": "Index", "path": "getting-started/index.md" },
+        { "title": "Quick Start", "path": "getting-started/quick-start.md" },
+        { "title": "Installation", "path": "getting-started/installation.md" },
+        { "title": "Provider Setup", "path": "getting-started/provider-setup.md" },
+        { "title": "Environment Variables", "path": "getting-started/environment-variables.md" }
+      ]
+    },
+    {
+      "title": "CLI Guide",
+      "children": [
+        { "title": "Index", "path": "cli/index.md" },
+        { "title": "Commands Reference", "path": "cli/commands.md" },
+        { "title": "Examples", "path": "cli/examples.md" },
+        { "title": "Advanced Usage", "path": "cli/advanced.md" }
+      ]
+    },
+    {
+      "title": "SDK Reference",
+      "children": [
+        { "title": "Index", "path": "sdk/index.md" },
+        { "title": "API Reference", "path": "sdk/api-reference.md" },
+        { "title": "Framework Integration", "path": "sdk/framework-integration.md" },
+        { "title": "Custom Tools", "path": "sdk/custom-tools.md" }
+      ]
+    },
+    {
+      "title": "Advanced Features",
+      "children": [
+        { "title": "Index", "path": "advanced/index.md" },
+        { "title": "MCP Integration", "path": "advanced/mcp-integration.md" },
+        { "title": "Analytics & Evaluation", "path": "advanced/analytics.md" },
+        { "title": "Factory Patterns", "path": "advanced/factory-patterns.md" },
+        { "title": "Dynamic Models", "path": "advanced/dynamic-models.md" },
+        { "title": "Streaming", "path": "advanced/streaming.md" }
+      ]
+    },
+    {
+      "title": "Examples & Tutorials",
+      "children": [
+        { "title": "Index", "path": "examples/index.md" },
+        { "title": "Basic Usage", "path": "examples/basic-usage.md" },
+        { "title": "Advanced Examples", "path": "examples/advanced.md" },
+        { "title": "Use Cases", "path": "examples/use-cases.md" },
+        { "title": "Business Applications", "path": "examples/business.md" }
+      ]
+    },
+    {
+      "title": "Visual Demos",
+      "children": [
+        { "title": "Index", "path": "demos/index.md" },
+        { "title": "Screenshots", "path": "demos/screenshots.md" },
+        { "title": "Videos", "path": "demos/videos.md" },
+        { "title": "Interactive Demo", "path": "demos/interactive.md" }
+      ]
+    },
+    {
+      "title": "Development",
+      "children": [
+        { "title": "Index", "path": "development/index.md" },
+        { "title": "Contributing", "path": "development/contributing.md" },
+        { "title": "Testing", "path": "development/testing.md" },
+        { "title": "Architecture", "path": "development/architecture.md" },
+        { "title": "Factory Pattern Migration", "path": "development/factory-migration.md" }
+      ]
+    },
+    {
+      "title": "Reference",
+      "children": [
+        { "title": "Index", "path": "reference/index.md" },
+        { "title": "Troubleshooting", "path": "reference/troubleshooting.md" },
+        { "title": "Configuration", "path": "reference/configuration.md" },
+        { "title": "Provider Comparison", "path": "reference/provider-comparison.md" },
+        { "title": "FAQ", "path": "reference/faq.md" }
+      ]
+    }
+  ]
+}
